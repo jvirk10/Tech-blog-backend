@@ -1,0 +1,8 @@
+<ol class="post-list">
+  {{! the each helper function will begin the loop and be repeated for every item in posts }}
+  {{#each posts as |post|}}
+    <li>
+      {{>post-info post}}
+    </li>
+  {{/each}}
+</ol>
