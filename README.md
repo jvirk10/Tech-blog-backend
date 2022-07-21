@@ -29,7 +29,7 @@ Then get to styling (stylesheets).
 How to Install:
 
 Open Gitbash/terminal, navigate towards your project location from your root by using "cd ./ project location"
-Choose a clone option from the "Tech-Blog-backend" repository (either HTTPS or SSH should work)
+Choose a clone option from the "Tech-blog-backend" repository (either HTTPS or SSH should work)
 In Gitbash, type "git clone HTTPS or SSH"
 Once the clone is successful, navigate to the root directory of this repo.
 Enter npm i into the terminal to install all dependencies linked in the package.json file.
